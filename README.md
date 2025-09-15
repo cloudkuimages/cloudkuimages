@@ -1,48 +1,44 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/11067044/273381813-87eaaa94-029d-4a42-9f1e-2b5d1c666b24.png" width="50" alt="Book Emoji" />
-  Hi, I'm cloudkuimages!
-  <img src="https://user-images.githubusercontent.com/11067044/273381805-cf6f8a4c-1f1b-4bcc-a3a0-5e7d7bf5e6c7.png" width="50" alt="Cloud Emoji" />
-</h1>
+<!-- Profile Header dengan Background -->
 <p align="center">
-  <b>Web Developer • Bot Scripter • Coding Teacher • Indonesian Tech Enthusiast 🇮🇩</b>
+  <img src="https://files.cloudkuimages.guru/images/dpEwi54c.jpg" alt="cloudkuimages header" width="100%" style="border-radius:20px;"/>
+</p>
+
+<h1 align="center">Hi, I'm cloudkuimages!</h1>
+<p align="center">
+  <b>Web Developer | Bot Scripter | Coding Enthusiast | 18 y/o | Indonesia 🇮🇩</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TEACHING-CODING-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB%20DEV-JS%20%7C%20Node.js%20%7C%20PHP-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOT%20SCRIPTER-TELEGRAM%20%7C%20WHATSAPP-green?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING-EVERYDAY-lightgrey?style=for-the-badge&logo=codewars&logoColor=red" />
+  <img src="https://img.shields.io/badge/MUSIC-PLAYER-purple?style=for-the-badge&logo=musicbrainz&logoColor=white" />
 </p>
 
 ---
 
+## 🎧 Listen My Favorite Song  
 <p align="center">
-  <img src="https://img.shields.io/badge/TEACHING-CODING-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teaching Coding Badge"/>
-  <img src="https://img.shields.io/badge/WEB%20DEV-JS%20%7C%20Node.js%20%7C%20PHP-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev Badge"/>
-  <img src="https://img.shields.io/badge/BOT%20SCRIPTER-TELEGRAM%20%7C%20WHATSAPP-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Bot Scripter Badge"/>
+  <audio controls>
+    <source src="https://files.cloudkuimages.guru/NanKoPaham.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
 </p>
 
 ---
 
-## 🌟 About Me
+## 💻 About Me
 
-- 🧑‍💻 **18 years old** & self-taught coder (teaching myself since 2019)
-- 🚀 Building web apps, scripting Telegram/WhatsApp bots, and sharing my knowledge
-- 🌍 Living in **Indonesia**
-- 💡 Currently exploring new tech, teaching, and building cool projects
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-<br>
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android%2010-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- ✨ 18 tahun, mulai belajar coding tahun 2019
+- 🌏 Domisili: Indonesia
+- 👨‍💻 Fokus: Web Development & Bot Scripting (Telegram/WhatsApp)
+- 📚 Masih belajar, suka eksperimen project baru & sharing
+- 🖥 OS: Windows 11, Ubuntu, Android 10
 
 ---
 
-## 🚀 My Projects
+## 🚀 Project Unggulan
 
 - 🌐 [cloudkuimages.guru](https://cloudkuimages.guru)
 - 🌐 [cloudku.clickk](https://cloudku.clickk)
@@ -55,28 +51,50 @@
 
 ---
 
-## 👨‍🏫 Teaching & Sharing
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11067044/273381813-87eaaa94-029d-4a42-9f1e-2b5d1c666b24.png" width="40" alt="Book Emoji" /> 
-  <img src="https://user-images.githubusercontent.com/11067044/273381805-cf6f8a4c-1f1b-4bcc-a3a0-5e7d7bf5e6c7.png" width="40" alt="Cloud Emoji" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-> **I love teaching coding and helping others get started. If you want to learn together or need help, just reach out!**
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.npmjs.com/~alfidev"><img src="https://img.shields.io/badge/npmjs-alfidev-red?style=for-the-badge&logo=npm&logoColor=white" /></a>
+  <a href="https://x.com/cloudkuimages"><img src="https://img.shields.io/badge/X-@cloudkuimages-black?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/alfino_r.c"><img src="https://img.shields.io/badge/Instagram-alfino_r.c-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/CocoaChanChannel"><img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/cloudkudev"><img src="https://img.shields.io/badge/Telegram-@cloudkudev-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏷️ More Badges & Logos
 
-- Telegram: [@cloudkudev](https://t.me/cloudkudev)
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-LOVER-00bfff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUG%20HUNTER-EXPLORER-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAST%20LEARNER-green?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOT%20CRAFTER-4B4B4B?style=for-the-badge&logo=githubactions&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MADE%20WITH%20LOVE-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-FFD700?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
-## 🕹️ Fun Facts
-
-- I love automating chats and building cool bots!
-- Always learning and exploring new tech.
-- Coding is my passion and my hobby.
+## 📢 Fun Fact
+> Masih belajar dan selalu ingin tahu hal baru. Kalau mau kolaborasi, tanya, atau sharing, DM aja!
 
 ---
 

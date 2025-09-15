@@ -20,37 +20,38 @@
 
 ## 🎧 Listen My Favorite Song  
 <p align="center">
-  <audio controls autoplay preload="auto" id="favSong">
+  <audio controls preload="metadata" id="favSong" style="width:300px;">
     <source src="https://files.cloudkuimages.guru/NanKoPaham.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 </p>
 
+<details>
+<summary>🎵 Click to auto-play (requires permission)</summary>
+
+```html
 <script>
-document.addEventListener('DOMContentLoaded', () => {
+(() => {
   const audio = document.getElementById('favSong');
-  
-  const requestPermission = async () => {
-    try {
-      await navigator.mediaDevices.getUserMedia({ audio: true });
-      audio.play().catch(() => {
-        audio.muted = false;
-        audio.play();
-      });
-    } catch {
-      audio.addEventListener('click', () => audio.play(), { once: true });
-    }
+  const playAudio = () => {
+    audio.play().catch(() => {
+      audio.muted = false;
+      audio.play();
+    });
   };
   
-  if (document.visibilityState === 'visible') {
-    requestPermission();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', playAudio);
   } else {
-    document.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'visible') requestPermission();
-    }, { once: true });
+    playAudio();
   }
-});
+  
+  audio.addEventListener('click', playAudio, { once: true });
+})();
 </script>
+```
+
+</details>
 
 ---
 
@@ -66,14 +67,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ## 🚀 Project Unggulan
 
-- 🌐 [cloudkuimages.guru](https://cloudkuimages.guru)
-- 🌐 [cloudku.clickk](https://cloudku.clickk)
-- 🌐 [cloudku.us.kg](https://cloudku.us.kg)
-- 🤖 [cocoa-chan-telegram](https://github.com/cloudkuimages/cocoa-chan-telegram)
-- 🤖 [telegram-bot-base](https://github.com/cloudkuimages/telegram-bot-base)
-- 🤖 [cloudku-baileys](https://github.com/cloudkuimages/cloudku-baileys)
-- 🕒 [jam](https://github.com/cloudkuimages/jam)
-- 👨‍🏫 [cloudkuimages.github.io](https://github.com/cloudkuimages/cloudkuimages.github.io)
+<table align="center">
+<tr>
+<td>
+
+**🌐 Web Projects**
+- [cloudkuimages.guru](https://cloudkuimages.guru)
+- [cloudku.clickk](https://cloudku.clickk)
+- [cloudku.us.kg](https://cloudku.us.kg)
+- [cloudkuimages.github.io](https://github.com/cloudkuimages/cloudkuimages.github.io)
+
+</td>
+<td>
+
+**🤖 Bot Projects**
+- [cocoa-chan-telegram](https://github.com/cloudkuimages/cocoa-chan-telegram)
+- [telegram-bot-base](https://github.com/cloudkuimages/telegram-bot-base)
+- [cloudku-baileys](https://github.com/cloudkuimages/cloudku-baileys)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🕒 Utilities**
+- [jam](https://github.com/cloudkuimages/jam)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,6 +109,9 @@ document.addEventListener('DOMContentLoaded', () => {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -106,7 +131,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-## 🏷️ More Badges & Logos
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloudkuimages&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudkuimages&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudkuimages&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-LOVER-00bfff?style=for-the-badge&logo=github&logoColor=white" />
@@ -125,5 +163,5 @@ document.addEventListener('DOMContentLoaded', () => {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudkuimages&show_icons=true&theme=tokyonight" alt="cloudkuimages' GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=cloudkuimages&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>

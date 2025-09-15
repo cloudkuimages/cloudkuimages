@@ -20,11 +20,37 @@
 
 ## 🎧 Listen My Favorite Song  
 <p align="center">
-  <audio controls>
+  <audio controls autoplay preload="auto" id="favSong">
     <source src="https://files.cloudkuimages.guru/NanKoPaham.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 </p>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const audio = document.getElementById('favSong');
+  
+  const requestPermission = async () => {
+    try {
+      await navigator.mediaDevices.getUserMedia({ audio: true });
+      audio.play().catch(() => {
+        audio.muted = false;
+        audio.play();
+      });
+    } catch {
+      audio.addEventListener('click', () => audio.play(), { once: true });
+    }
+  };
+  
+  if (document.visibilityState === 'visible') {
+    requestPermission();
+  } else {
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible') requestPermission();
+    }, { once: true });
+  }
+});
+</script>
 
 ---
 

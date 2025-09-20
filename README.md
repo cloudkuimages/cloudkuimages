@@ -1,167 +1,120 @@
-<!-- Profile Header dengan Background -->
-<p align="center">
+<div align="center">
   <img src="https://files.cloudkuimages.guru/images/dpEwi54c.jpg" alt="cloudkuimages header" width="100%" style="border-radius:20px;"/>
-</p>
+</div>
 
-<h1 align="center">Hi, I'm cloudkuimages!</h1>
-<p align="center">
-  <b>Web Developer | Bot Scripter | Coding Enthusiast | 18 y/o | Indonesia 🇮🇩</b>
-</p>
+# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TEACHING-CODING-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEB%20DEV-JS%20%7C%20Node.js%20%7C%20PHP-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/BOT%20SCRIPTER-TELEGRAM%20%7C%20WHATSAPP-green?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEARNING-EVERYDAY-lightgrey?style=for-the-badge&logo=codewars&logoColor=red" />
-  <img src="https://img.shields.io/badge/MUSIC-PLAYER-purple?style=for-the-badge&logo=musicbrainz&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Newbie+Developer;Designer;UI%2FUX+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+<a href="https://github.com/cloudkuimages?tab=followers">
+    <img src="https://img.shields.io/github/followers/cloudkuimages?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  </a>
 
----
+## 👨‍💻 About Me
 
-## 🎧 Listen My Favorite Song  
-<p align="center">
-  <audio controls preload="metadata" id="favSong" style="width:300px;">
-    <source src="https://files.cloudkuimages.guru/NanKoPaham.mp3" type="audio/mp3">
-    Your browser does not support the audio element.
-  </audio>
-</p>
+I'm a passionate developer focused on creating beautiful and functional web applications. My journey in tech has equipped me with skills across multiple domains including frontend development, backend architecture, and UI/UX design.
 
-<details>
-<summary>🎵 Click to auto-play (requires permission)</summary>
+- 🔭 I'm currently working on **innovative web applications**
+- 🌱 I'm currently learning **advanced AI integration**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **web development, design, or tech in general**
 
-```html
-<script>
-(() => {
-  const audio = document.getElementById('favSong');
-  const playAudio = () => {
-    audio.play().catch(() => {
-      audio.muted = false;
-      audio.play();
-    });
-  };
+## 🚀 Tech Stack
+
+<div align="center">
   
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', playAudio);
-  } else {
-    playAudio();
-  }
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,docker,git,vscode,figma&perline=8" />
+</div>
+
+
+## 🏆 Projects
+
+<div align="center">
+  <a href="https://github.com/cloudkuimages/pong-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=pong-game&theme=radical" />
+  </a>
+  <a href="https://github.com/cloudkuimages/cocoa-chan-telegram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=cocoa-chan-telegram&theme=radical" />
+  </a>
+  <a href="https://github.com/cloudkuimages/tests">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=tests&theme=radical" />
+  </a>
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloudkuimages&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudkuimages&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudkuimages&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🎯 Activities
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cloudkuimages&theme=radical&row=1&column=7" alt="trophy" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:cloudkuimages@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/cloudkuimages">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/alfino_r.c">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+## 💻 Daily Coding Quote
+
+<div align="center">
   
-  audio.addEventListener('click', playAudio, { once: true });
-})();
-</script>
-```
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
 
-</details>
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" height="60" />
+  <br/>
+</div>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-## 💻 About Me
-
-- ✨ 18 tahun, mulai belajar coding tahun 2019
-- 🌏 Domisili: Indonesia
-- 👨‍💻 Fokus: Web Development & Bot Scripting (Telegram/WhatsApp)
-- 📚 Masih belajar, suka eksperimen project baru & sharing
-- 🖥 OS: Windows 11, Ubuntu, Android 10
-
----
-
-## 🚀 Project Unggulan
-
-<table align="center">
-<tr>
-<td>
-
-**🌐 Web Projects**
-- [cloudkuimages.guru](https://cloudkuimages.guru)
-- [cloudku.clickk](https://cloudku.clickk)
-- [cloudku.us.kg](https://cloudku.us.kg)
-- [cloudkuimages.github.io](https://github.com/cloudkuimages/cloudkuimages.github.io)
-
-</td>
-<td>
-
-**🤖 Bot Projects**
-- [cocoa-chan-telegram](https://github.com/cloudkuimages/cocoa-chan-telegram)
-- [telegram-bot-base](https://github.com/cloudkuimages/telegram-bot-base)
-- [cloudku-baileys](https://github.com/cloudkuimages/cloudku-baileys)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**🕒 Utilities**
-- [jam](https://github.com/cloudkuimages/jam)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.npmjs.com/~alfidev"><img src="https://img.shields.io/badge/npmjs-alfidev-red?style=for-the-badge&logo=npm&logoColor=white" /></a>
-  <a href="https://x.com/cloudkuimages"><img src="https://img.shields.io/badge/X-@cloudkuimages-black?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/alfino_r.c"><img src="https://img.shields.io/badge/Instagram-alfino_r.c-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/CocoaChanChannel"><img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/cloudkudev"><img src="https://img.shields.io/badge/Telegram-@cloudkudev-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudkuimages&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudkuimages&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudkuimages&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-LOVER-00bfff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUG%20HUNTER-EXPLORER-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAST%20LEARNER-green?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/BOT%20CRAFTER-4B4B4B?style=for-the-badge&logo=githubactions&logoColor=blue" />
-  <img src="https://img.shields.io/badge/MADE%20WITH%20LOVE-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-FFD700?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
----
-
-## 📢 Fun Fact
-> Masih belajar dan selalu ingin tahu hal baru. Kalau mau kolaborasi, tanya, atau sharing, DM aja!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cloudkuimages&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>

@@ -3,69 +3,38 @@
   <img src="https://files.cloudkuimages.guru/images/dpEwi54c.jpg" alt="cloudkuimages header" width="100%" style="border-radius:20px;"/>
 </p>
 
-<h1 align="center">Hi, I'm cloudkuimages!</h1>
+<h1 align="center">cloudkuimages</h1>
 <p align="center">
-  <b>Web Developer | Bot Scripter | Coding Enthusiast | 18 y/o | Indonesia 🇮🇩</b>
+  <b>Full-Stack Web Developer | Bot Development Specialist | Software Engineer | Indonesia 🇮🇩</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEACHING-CODING-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEB%20DEV-JS%20%7C%20Node.js%20%7C%20PHP-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/BOT%20SCRIPTER-TELEGRAM%20%7C%20WHATSAPP-green?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEARNING-EVERYDAY-lightgrey?style=for-the-badge&logo=codewars&logoColor=red" />
-  <img src="https://img.shields.io/badge/MUSIC-PLAYER-purple?style=for-the-badge&logo=musicbrainz&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-JS%20%7C%20Node.js%20%7C%20PHP-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOT%20DEVELOPMENT-TELEGRAM%20%7C%20WHATSAPP-green?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTINUOUS-LEARNING-lightgrey?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-purple?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🎧 Listen My Favorite Song  
-<p align="center">
-  <audio controls preload="metadata" id="favSong" style="width:300px;">
-    <source src="https://files.cloudkuimages.guru/NanKoPaham.mp3" type="audio/mp3">
-    Your browser does not support the audio element.
-  </audio>
-</p>
+## 💼 Professional Overview
 
-<details>
-<summary>🎵 Click to auto-play (requires permission)</summary>
+- 🚀 Full-Stack Developer with 5+ years of programming experience since 2019
+- 🌍 Based in Indonesia, serving clients globally
+- 💻 Specializing in Web Development & Bot Automation (Telegram/WhatsApp)
+- 🔧 Passionate about building scalable solutions and exploring new technologies
+- 🖥 Development Environment: Windows 11, Ubuntu, Android Development
 
-```html
-<script>
-(() => {
-  const audio = document.getElementById('favSong');
-  const playAudio = () => {
-    audio.play().catch(() => {
-      audio.muted = false;
-      audio.play();
-    });
-  };
-  
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', playAudio);
-  } else {
-    playAudio();
-  }
-  
-  audio.addEventListener('click', playAudio, { once: true });
-})();
-</script>
-```
-
-</details>
+### Core Competencies
+- **Frontend**: Modern JavaScript frameworks, responsive design, user experience optimization
+- **Backend**: Node.js, PHP, RESTful APIs, database design
+- **Automation**: Telegram & WhatsApp bot development, process automation
+- **DevOps**: Linux server management, deployment pipelines
 
 ---
 
-## 💻 About Me
-
-- ✨ 18 tahun, mulai belajar coding tahun 2019
-- 🌏 Domisili: Indonesia
-- 👨‍💻 Fokus: Web Development & Bot Scripting (Telegram/WhatsApp)
-- 📚 Masih belajar, suka eksperimen project baru & sharing
-- 🖥 OS: Windows 11, Ubuntu, Android 10
-
----
-
-## 🚀 Project Unggulan
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
@@ -119,7 +88,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Networks
 
 <p align="center">
   <a href="https://www.npmjs.com/~alfidev"><img src="https://img.shields.io/badge/npmjs-alfidev-red?style=for-the-badge&logo=npm&logoColor=white" /></a>
@@ -147,18 +116,19 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-LOVER-00bfff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUG%20HUNTER-EXPLORER-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAST%20LEARNER-green?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/BOT%20CRAFTER-4B4B4B?style=for-the-badge&logo=githubactions&logoColor=blue" />
-  <img src="https://img.shields.io/badge/MADE%20WITH%20LOVE-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-FFD700?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-00bfff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PROBLEM-SOLVER-orange?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-green?style=for-the-badge&logo=stackexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOT%20DEVELOPER-4B4B4B?style=for-the-badge&logo=robot&logoColor=blue" />
+  <img src="https://img.shields.io/badge/QUALITY%20FOCUSED-ff6b6b?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTINUOUS%20LEARNER-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" />
 </p>
 
 ---
 
-## 📢 Fun Fact
-> Masih belajar dan selalu ingin tahu hal baru. Kalau mau kolaborasi, tanya, atau sharing, DM aja!
+## 💬 Let's Connect
+
+> Always open to discussing new opportunities, collaborations, and innovative projects. Feel free to reach out for professional inquiries or technical discussions.
 
 ---
 
